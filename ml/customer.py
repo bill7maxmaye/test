@@ -21,3 +21,5 @@ data['cluster'] = cluster_labels
 
 # Save the updated dataset with cluster labels to a new CSV file
 data.to_csv('customer_data_with_clusters.csv', index=False)
+
+print("heelo")
